@@ -10,6 +10,7 @@ body{
 }
 
 .purple-cloud-wrapper{
+    height: 100%;
     width: 100%;
     padding: 0px;
     margin: 0px;
@@ -26,16 +27,16 @@ body{
     font-size: 3.4em;
     color: rgba(255, 255, 255, 0.8);
     font-weight: 900;
-    letter-spacing: 0.6em;
+    letter-spacing: 0.4em;
     text-align: center;
     line-height: 1.4em;
-
     
     background-image: url("img/purple-cloud-2-1.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     color: transparent;
+    color: rgba(255, 255, 255, 0.1);
     text-fill-color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
