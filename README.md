@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Don't Starve Together server mod "Announce to Discord"
+- 🔭 I’m currently working on Don't Starve Together server mods
 - 🌱 I’m currently learning Modding
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
