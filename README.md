@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Don't Starve Together server mods
 - 🌱 I’m currently learning Modding
+- 🤔 Too many side-projects on my queue of "waiting for updates"...
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
