@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on web wallpaper
-- 🌱 I’m currently learning web canvas & Konva.js
+- 🔭 I’m currently working on "Show Me Controller"
+- 🌱 I’m currently learning Dont starve together modding ....
 - 🤔 Too many side-projects in my queue of "waiting for updates"...
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
