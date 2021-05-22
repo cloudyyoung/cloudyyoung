@@ -1,4 +1,5 @@
 <!-- ### Hi there 👋 -->
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 - 🔭 I’m currently working on mahouka-visitor wallpaper
 - 🌱 I’m currently learning WebGL and Canvas
 - 🤔 Too many side-projects in my queue of "waiting for updates"...
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
