@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm ISTP
 
 
-[<img width="100%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true" />
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CloudyYoung&hide_title=true&hide_border=true&langs_count=5)
+<img align="right" width="50%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CloudyYoung&hide_title=true&hide_border=true&langs_count=5" />
