@@ -1,7 +1,4 @@
 <!-- ### Hi there 👋 -->
-
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <!--
 **cloudyyoung/cloudyyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on mahouka-visitor wallpaper
 - 🌱 I’m currently learning WebGL and Canvas
