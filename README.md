@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
 
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite" width="48%" >
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
