@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CloudyYoung&hide_title=true&hide_border=true&langs_count=5)
+<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CloudyYoung&hide_title=true&hide_border=true&langs_count=5) -->
 
 
