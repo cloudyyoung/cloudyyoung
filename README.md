@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
 
 - 🔭 I’m currently working on mahouka-visitor wallpaper
 - 🌱 I’m currently learning WebGL and Canvas
@@ -24,3 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
+
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite" width="48%" >
