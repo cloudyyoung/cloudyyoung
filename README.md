@@ -24,7 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&langs_count=10" style="padding-left: 0px;" />
-
-<img width="50%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CloudyYoung&hide_title=true&hide_border=true&langs_count=5"/>
