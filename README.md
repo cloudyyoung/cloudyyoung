@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
 
+<img align="right" width="50%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CloudyYoung&hide_title=true&hide_border=true&langs_count=5" />
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true" />
 
-<img align="right" width="50%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CloudyYoung&hide_title=true&hide_border=true&langs_count=5" />
