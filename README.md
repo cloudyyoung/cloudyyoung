@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **cloudyyoung/cloudyyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
 
+#### 📊 Weekly Stats
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CloudyYoung&hide_title=true&hide_border=true&langs_count=5)
