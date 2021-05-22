@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
+
+
 - 🔭 I’m currently working on mahouka-visitor wallpaper
 - 🌱 I’m currently learning WebGL and Canvas
 - 🤔 Too many side-projects in my queue of "waiting for updates"...
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ISTP
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
