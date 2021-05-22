@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite" />
 
 - 🔭 I’m currently working on mahouka-visitor wallpaper
 - 🌱 I’m currently learning WebGL and Canvas
