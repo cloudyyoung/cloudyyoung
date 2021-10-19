@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on mahouka-visitor wallpaper
+- 🔭 I’m currently working on Natural Language Processing
 - 🌱 I’m currently researching on Machine Learning
 - 🤔 Too many side-projects in my queue of "waiting for updates"...
 - 📫 How to reach me: Email on profile
