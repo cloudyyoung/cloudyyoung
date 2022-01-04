@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-<img src="https://s2.loli.net/2022/01/04/IG6Hly2fbpwej1c.jpg" style="width: 50%; text-align: center;" />
+<img src="https://s2.loli.net/2022/01/04/IG6Hly2fbpwej1c.jpg" style="width: 50%; text-align: center;" align="right" />
 
 - 🔭 I’m currently working on Natural Language Processing
 - 🌱 I’m currently researching on Machine Learning
