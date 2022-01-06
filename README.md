@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <img src="https://s2.loli.net/2022/01/04/8yds15lXVGNmkAw.jpg" style="width: 50%; text-align: center;" align="right" />
 
-- 🔭 I’m currently working on Natural Language Processing
-- 🌱 I’m currently researching on Machine Learning
+- 🔭 I’m currently working on my mental status
+- 🌱 I’m currently researching on myself awareness
 - 🤔 Too many side-projects in my queue of "waiting for updates"...
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
