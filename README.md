@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm INTP.. and sometimes ISTP (No don't ever take this seriously)
-- 👀 Currently: Open to any project collaboration or intership opportunity :)
+- 👀 Currently: Open to any project collaboration or internship opportunity :)
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
