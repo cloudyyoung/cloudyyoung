@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <img src="https://s2.loli.net/2022/01/04/8yds15lXVGNmkAw.jpg" style="width: 50%; text-align: center;" align="right" />
 
-- 🔭 I’m currently working on my course works and "Baylor Bridges"
-- 🌱 I’m currently researching on life-work balance
-- 🤔 Too many side-projects in my queue of "waiting for updates"...
+- 🔭 I’m currently diving into natural language processing and machine learning
+- 🌱 I’m currently learning natural language processing and data analysis
+- 🤔 I'm looking for help with natural language processing
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm INTP.. and sometimes ISTP (No don't ever take this seriously)
-- 👀 Currently: Open to any project collaboration or internship opportunity :)
+- 👀 Currently: Open to any project collaboration with brilliant ideas :)
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cloudyyoung&show_icons=true&theme=graywhite&hide_border=true" style="padding-left: 0px;" />
