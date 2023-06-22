@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <img src="https://s2.loli.net/2022/01/04/8yds15lXVGNmkAw.jpg" style="width: 50%; text-align: center;" align="right" />
 
-- 🔭 I’m currently diving into natural language processing and machine learning
-- 🌱 I’m currently learning natural language processing and data analysis
-- 🤔 I'm looking for help with natural language processing
+- 🔭 I’m currently diving into fun projects working with GPT
+- 🌱 I’m currently learning software & prompt engineering
+- 🤔 I'm looking for help with natural language processing and GPT prompts
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm INTP.. and sometimes ISTP (No don't ever take this seriously)
