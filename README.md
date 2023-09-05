@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 <img src="https://s2.loli.net/2022/01/04/8yds15lXVGNmkAw.jpg" style="width: 50%; text-align: center;" align="right" />
 
-- 🔭 I’m currently diving into fun projects working with GPT
-- 🌱 I’m currently learning software & prompt engineering
-- 🤔 I'm looking for help with natural language processing and GPT prompts
+- 🔭 I’m currently working on a fun project
+- 🌱 I’m currently conducting computer science research project
+- 🤔 I'm looking for self-motivated project buddy
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm INTP.. and sometimes ISTP (No don't ever take this seriously)
+- ⚡ Fun fact: I'm INTP.. and sometimes ISTP (P stands for Procrastination)
 - 👀 Currently: Open to any project collaboration with brilliant ideas :)
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
