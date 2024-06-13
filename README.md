@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for self-motivated project buddy
 - 📫 How to reach me: Email on profile
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm INTP.. and sometimes ISTP (P stands for Procrastination)
+- ⚡ Fun fact: I'm INTP - the Logician!
 - 👀 Currently: Open to any project collaboration with brilliant ideas :)
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyyoung&theme=graywhite&hide_border=true" width="48%" >
